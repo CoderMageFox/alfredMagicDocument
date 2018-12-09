@@ -1,0 +1,35 @@
+{
+  "author": "CoderMageFox <coderMageFox@codermagefox.com>",
+  "description": "Document Of AlfredMagic",
+  "extension": null,
+  "generator": "site",
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {
+      "CoderMageFox's Blog": "http://blog.codermagefox.com"
+    }
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": [],
+  "title": "AlfredMagic Document",
+  "variables": {}
+}

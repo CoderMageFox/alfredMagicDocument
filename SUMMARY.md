@@ -8,11 +8,9 @@
 
 * [MDN查询](MDN.md)
 
-* [Vue文档查询](VueDocument.md)
+* [React/Vue文档查询](ReactDocument.md)
 
-* [React文档查询](ReactDocument.md)
-
-* [变量命名](VariableName.md)
+* [变量命名/翻译](VariableName.md)
 
 * [ShellHere](ShellHere.md)
 

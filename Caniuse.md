@@ -1,6 +1,6 @@
-#CanIUse兼容性查询
-####WorkFlow查询关键字:`use`
-####例子:
+# CanIUse兼容性查询
+#### WorkFlow查询关键字:`use`
+#### 例子:
 
 ![](./PICS/CanIUse.gif)
 
@@ -10,7 +10,7 @@ Tips:
 
 2.由于alfy限制,CanIUse查询不支持空格.
 
-####快捷键查询
+#### 快捷键查询
 在此处设置
 
 ![](./PICS/CanIUse-1.png)
